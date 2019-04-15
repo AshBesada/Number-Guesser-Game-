@@ -1,0 +1,7 @@
+C:\Users\Ash\OneDrive\myBigSandbox\numberGuesser\numberGuesser\bin\Debug\numberGuesser.exe.config
+C:\Users\Ash\OneDrive\myBigSandbox\numberGuesser\numberGuesser\bin\Debug\numberGuesser.exe
+C:\Users\Ash\OneDrive\myBigSandbox\numberGuesser\numberGuesser\bin\Debug\numberGuesser.pdb
+C:\Users\Ash\OneDrive\myBigSandbox\numberGuesser\numberGuesser\obj\Debug\numberGuesser.csprojResolveAssemblyReference.cache
+C:\Users\Ash\OneDrive\myBigSandbox\numberGuesser\numberGuesser\obj\Debug\numberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Ash\OneDrive\myBigSandbox\numberGuesser\numberGuesser\obj\Debug\numberGuesser.exe
+C:\Users\Ash\OneDrive\myBigSandbox\numberGuesser\numberGuesser\obj\Debug\numberGuesser.pdb
