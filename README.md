@@ -1,2 +1,2 @@
-# Number-Guesser-Game-
+# Number-Guesser-Game
 Number guesser game - C#
